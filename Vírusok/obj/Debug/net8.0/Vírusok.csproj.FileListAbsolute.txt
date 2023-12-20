@@ -1,0 +1,14 @@
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\bin\Debug\net8.0\Vírusok.exe
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\bin\Debug\net8.0\Vírusok.deps.json
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\bin\Debug\net8.0\Vírusok.runtimeconfig.json
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\bin\Debug\net8.0\Vírusok.dll
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\bin\Debug\net8.0\Vírusok.pdb
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\Vírusok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\Vírusok.AssemblyInfoInputs.cache
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\Vírusok.AssemblyInfo.cs
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\Vírusok.csproj.CoreCompileInputs.cache
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\Vírusok.dll
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\refint\Vírusok.dll
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\Vírusok.pdb
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\Vírusok.genruntimeconfig.cache
+C:\Users\zolik\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Kódok\Vírusok\Vírusok\obj\Debug\net8.0\ref\Vírusok.dll
