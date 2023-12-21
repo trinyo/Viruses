@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vírusok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48667d3a331c4b7316b9867055c0fcc82da057e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vírusok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vírusok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
